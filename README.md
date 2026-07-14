@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -83,9 +84,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
+## Depth-First Search
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
