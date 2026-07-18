@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0018-4sum) |
+| [0059-spiral-matrix-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0067-add-binary) |
 ## Breadth-First Search
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
