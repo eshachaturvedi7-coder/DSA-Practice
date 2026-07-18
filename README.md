@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0018-4sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0799-champagne-tower](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0799-champagne-tower) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0067-add-binary) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
