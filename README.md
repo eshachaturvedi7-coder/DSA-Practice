@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0067-add-binary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
