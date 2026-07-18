@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0018-4sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0067-add-binary) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
