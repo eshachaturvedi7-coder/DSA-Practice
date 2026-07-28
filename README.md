@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0242-valid-anagram) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0242-valid-anagram) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Simulation
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
