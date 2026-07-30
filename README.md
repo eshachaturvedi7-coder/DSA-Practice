@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0046-permutations) |
 | [0797-all-paths-from-source-to-target](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
