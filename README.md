@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0059-spiral-matrix-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
+| [0135-candy](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0135-candy) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
