@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0070-climbing-stairs) |
