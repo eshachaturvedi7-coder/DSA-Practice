@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0059-spiral-matrix-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0198-house-robber](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0213-house-robber-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0242-valid-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
