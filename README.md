@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -225,4 +226,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
