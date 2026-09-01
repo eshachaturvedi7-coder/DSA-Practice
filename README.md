@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0877-stone-game) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -244,14 +246,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -264,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
