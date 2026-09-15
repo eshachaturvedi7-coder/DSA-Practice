@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -289,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
