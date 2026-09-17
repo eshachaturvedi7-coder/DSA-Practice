@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0799-champagne-tower](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0516-longest-palindromic-subsequence](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
