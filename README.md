@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
