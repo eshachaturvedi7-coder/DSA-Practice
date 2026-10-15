@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0877-stone-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0799-champagne-tower](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0799-champagne-tower) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0322-coin-change) |
 | [0797-all-paths-from-source-to-target](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -326,4 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0056-merge-intervals) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
