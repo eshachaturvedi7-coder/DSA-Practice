@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3525-find-x-value-of-array-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [2409-count-days-spent-together](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
