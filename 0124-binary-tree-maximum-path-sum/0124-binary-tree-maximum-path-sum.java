@@ -14,34 +14,23 @@
  * }
  */
 class Solution {
-
     int maxSum = Integer.MIN_VALUE;
-
     public int maxPathSum(TreeNode root) {
-        dfs(root);
+        maxPathSumUtil(root);
         return maxSum;
     }
 
-    private int dfs(TreeNode root) {
-
-        // Base case
-        if (root == null) {
+    public int maxPathSumUtil(TreeNode root){
+        if(root == null) 
             return 0;
-        }
+        
+        int ls = Math.max(0, maxPathSumUtil(root.left));
+        int rs = Math.max(0, maxPathSumUtil(root.right));
 
-        // Maximum contribution from left subtree
-        int leftGain = Math.max(0, dfs(root.left));
+        int val = root.val;
 
-        // Maximum contribution from right subtree
-        int rightGain = Math.max(0, dfs(root.right));
+        maxSum = Math.max(maxSum, Math.max(ls + rs + root.val, root.val));
 
-        // Path passing through current node
-        int currentPath = leftGain + root.val + rightGain;
-
-        // Update global maximum
-        maxSum = Math.max(maxSum, currentPath);
-
-        // Return maximum one-sided path to parent
-        return root.val + Math.max(leftGain, rightGain);
+        return val + Math.max(ls, rs);
     }
 }
