@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3525-find-x-value-of-array-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0135-candy) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/eshachaturvedi7-coder/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
